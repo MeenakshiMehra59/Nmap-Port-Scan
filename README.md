@@ -12,7 +12,8 @@ Scan your local network to identify open ports and understand what services are 
 ## 📄 Sample Scan Output
 > IP address is redacted for privacy.
 
-![Nmap Output Screenshot](nmap_scan_output.png)
+![<img width="1916" height="797" alt="nmap-scan_output" src="https://github.com/user-attachments/assets/cda4a52b-d0d7-49f1-a7a3-f6ebc0885322" />
+t](nmap_scan_output.png)
 
 ## 📁 Files Included
 - `scan_result.txt` – Text version of scan result (IP hidden)
